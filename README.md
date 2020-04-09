@@ -1,7 +1,7 @@
 # Covid-19-Brasil
 Compilado de dados oficiais do Coronavírus (Covid-19) no Brasil informados pelo Ministério da Saúde e pelas Secretarias da Saúde.
 
-**IMPORTANTE**: Células vazias indicam dados desconhecidos / não reportados naquela data.
+**IMPORTANTE**: Células vazias indicam dados desconhecidos e ou não reportados naquela data.
 
 Fonte dos Dados por Estado: 
 - Ministério da Saúde: Reports oficiais diários do Ministério da Saúde
