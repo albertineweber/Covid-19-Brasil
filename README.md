@@ -8,5 +8,5 @@ Fonte dos Dados por Estado:
 - Secretárias Estaduais da Saúde: **Em construção**. Reports oficiais diários de cada Secretaria Estadual da Saúde.
 
 Fonte dos Dados por Cidade: **Em construção**. Múltiplas fontes: 
- - Secretarias Estaduais da Saúde: capitais de AC, AL, RJ, SP.
- - Secretarias Municipais da Saúde: Porto Alegre.
+ - Secretarias Estaduais da Saúde: capitais de AC, AL e RJ.
+ - Secretarias Municipais da Saúde: Porto Alegre e São Paulo.
